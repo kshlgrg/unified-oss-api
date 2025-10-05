@@ -1,0 +1,14 @@
+README.md
+setup.py
+milestone_celebrations/__init__.py
+milestone_celebrations.egg-info/PKG-INFO
+milestone_celebrations.egg-info/SOURCES.txt
+milestone_celebrations.egg-info/dependency_links.txt
+milestone_celebrations.egg-info/requires.txt
+milestone_celebrations.egg-info/top_level.txt
+milestone_celebrations/app/__init__.py
+milestone_celebrations/app/cli_formatter.py
+milestone_celebrations/app/config.py
+milestone_celebrations/app/github_client.py
+milestone_celebrations/app/milestone_detector.py
+milestone_celebrations/app/post_generator.py
