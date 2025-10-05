@@ -1,0 +1,81 @@
+Metadata-Version: 2.4
+Name: gh_maintainer_dashboard
+Version: 0.1.0
+Summary: A comprehensive dashboard for GitHub repository maintainers
+Home-page: https://github.com/kshlgrg/gh-maintainer-dashboard
+Author: Kushal Garg
+Author-email: kushalgarg71106@outlook.com
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests>=2.31.0
+Requires-Dist: gql[all]>=3.5.0
+Requires-Dist: pydantic>=2.5.0
+Requires-Dist: python-dotenv>=1.0.0
+Requires-Dist: redis>=5.0.0
+Requires-Dist: textblob>=0.17.1
+Requires-Dist: nltk>=3.8.1
+Requires-Dist: aiohttp>=3.9.0
+Provides-Extra: dev
+Requires-Dist: pytest>=7.4.0; extra == "dev"
+Requires-Dist: pytest-asyncio>=0.21.0; extra == "dev"
+Requires-Dist: black>=23.0.0; extra == "dev"
+Requires-Dist: flake8>=6.0.0; extra == "dev"
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: provides-extra
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# GitHub Maintainer Dashboard
+
+A comprehensive Python package for tracking and analyzing GitHub repository maintainer activities.
+
+## Features
+
+- Track all maintainer activities (reviews, issue triage, mentorship, documentation)
+- Sentiment analysis on PR reviews
+- Find similar maintainers based on tech stack and interests
+- Generate shareable maintainer CVs
+- Milestone celebrations and badges
+- Repository breakdown and time series analysis
+
+## Installation
+
+## Quick Start
+
+from gh_maintainer_dashboard import MaintainerDashboard
+
+dashboard = MaintainerDashboard(github_token="your_github_token")
+
+profile = dashboard.get_profile("octocat")
+print(profile.summary_stats)
+
+text
+
+## Configuration
+
+Create a `.env` file:
+
+GITHUB_TOKEN=your_github_personal_access_token
+
+text
+
+## License
+
+MIT License
