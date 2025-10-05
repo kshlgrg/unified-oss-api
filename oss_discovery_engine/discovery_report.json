@@ -1,0 +1,472 @@
+{
+  "user_profile": {
+    "username": "kshlgrg",
+    "profile_url": "https://github.com/kshlgrg",
+    "name": null,
+    "bio": null,
+    "public_repos": 5,
+    "followers": 0,
+    "following": 0,
+    "created_at": "2025-05-30T09:04:29Z",
+    "analyzed_skills": {
+      "languages": {
+        "Python": 1.0
+      },
+      "topics": [
+        "metatrader",
+        "trading",
+        "pinescript",
+        "quantative-finance",
+        "technical-analysis",
+        "algo-trading",
+        "quantative-trading",
+        "open-source",
+        "indicators",
+        "finance"
+      ],
+      "skill_level": "beginner",
+      "contribution_style": "issue_solver"
+    },
+    "github_stats": {
+      "total_contributions": 6,
+      "commits": 6,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0
+    },
+    "preferences": {
+      "preferred_languages": [
+        "Python"
+      ],
+      "preferred_topics": [
+        "metatrader",
+        "trading",
+        "pinescript",
+        "quantative-finance",
+        "technical-analysis"
+      ],
+      "preferred_complexity": "beginner"
+    }
+  },
+  "ai_predictions": {
+    "can_handle_complexity": {
+      "beginner": 0.98,
+      "intermediate": 0.43,
+      "advanced": 0.13
+    },
+    "suggested_contribution_types": [
+      "bug_fixes",
+      "issue_resolution",
+      "documentation"
+    ],
+    "best_fit_topics": [
+      "automation",
+      "ml",
+      "backend"
+    ],
+    "confidence": 0.6,
+    "skill_assessment": {
+      "level": "beginner",
+      "strengths": [],
+      "recommended_growth_areas": [
+        "Start with documentation improvements",
+        "Focus on good first issues",
+        "Learn project contribution workflows"
+      ]
+    }
+  },
+  "search_intent": {
+    "type": "solve_issues",
+    "query": "Python",
+    "filters_applied": {
+      "min_stars": 100
+    }
+  },
+  "recommended_projects": [
+    {
+      "rank": 1,
+      "match_score": 0.68,
+      "repo": {
+        "name": "Significant-Gravitas/AutoGPT",
+        "url": "https://github.com/Significant-Gravitas/AutoGPT",
+        "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+        "stars": 178808,
+        "forks": 46005,
+        "language": "Python",
+        "topics": [
+          "ai",
+          "artificial-intelligence",
+          "autonomous-agents",
+          "gpt-4",
+          "llama-api",
+          "openai",
+          "python"
+        ],
+        "open_issues": 244,
+        "last_updated": "2025-10-04T19:24:31Z",
+        "license": "Other"
+      },
+      "match_reasons": [
+        "\u2705 Python expertise matches",
+        "\u2705 Active and well-maintained",
+        "\u2705 Good opportunities available"
+      ],
+      "health_metrics": {
+        "maintainer_responsiveness": "excellent",
+        "community_activity": "very_active",
+        "recent_activity": true,
+        "beginner_friendly": true,
+        "overall_health": "excellent",
+        "has_contributing_guide": true,
+        "has_code_of_conduct": true,
+        "has_license": true
+      },
+      "recommended_issues": [
+        {
+          "number": 11044,
+          "title": "Collapse unconnected object sub-outputs on blocks",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT/issues/11044",
+          "labels": [
+            "good first issue",
+            "platform/frontend"
+          ],
+          "created_at": "2025-10-02T14:17:27Z"
+        },
+        {
+          "number": 11041,
+          "title": "Show agent name + version on Agent Executor block",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT/issues/11041",
+          "labels": [
+            "good first issue",
+            "platform/frontend",
+            "platform/blocks"
+          ],
+          "created_at": "2025-10-02T14:09:09Z"
+        },
+        {
+          "number": 10657,
+          "title": "Make type-checking in CI Python-version-specific",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT/issues/10657",
+          "labels": [
+            "good first issue",
+            "ci",
+            "platform/backend"
+          ],
+          "created_at": "2025-08-15T19:47:03Z"
+        }
+      ],
+      "why_recommended": "Great match for your skills! \u2705 Python expertise matches \u2705 Active and well-maintained 3 good first issues available."
+    },
+    {
+      "rank": 2,
+      "match_score": 0.68,
+      "repo": {
+        "name": "huggingface/transformers",
+        "url": "https://github.com/huggingface/transformers",
+        "description": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+        "stars": 150621,
+        "forks": 30633,
+        "language": "Python",
+        "topics": [
+          "audio",
+          "deep-learning",
+          "deepseek",
+          "gemma",
+          "glm",
+          "hacktoberfest",
+          "llm",
+          "machine-learning",
+          "model-hub",
+          "natural-language-processing",
+          "nlp",
+          "pretrained-models",
+          "python",
+          "pytorch",
+          "pytorch-transformers",
+          "qwen",
+          "speech-recognition",
+          "transformer",
+          "vlm"
+        ],
+        "open_issues": 2022,
+        "last_updated": "2025-10-04T19:56:56Z",
+        "license": "Apache License 2.0"
+      },
+      "match_reasons": [
+        "\u2705 Python expertise matches",
+        "\u2705 Active and well-maintained",
+        "\u2705 Good opportunities available"
+      ],
+      "health_metrics": {
+        "maintainer_responsiveness": "excellent",
+        "community_activity": "very_active",
+        "recent_activity": true,
+        "beginner_friendly": true,
+        "overall_health": "excellent",
+        "has_contributing_guide": true,
+        "has_code_of_conduct": true,
+        "has_license": true
+      },
+      "recommended_issues": [
+        {
+          "number": 40984,
+          "title": "Adding `logits_to_keep` to older models",
+          "url": "https://github.com/huggingface/transformers/issues/40984",
+          "labels": [
+            "Good First Issue"
+          ],
+          "created_at": "2025-09-18T18:00:30Z"
+        },
+        {
+          "number": 39366,
+          "title": "RuntimeError when loading llmcompressor W8A8 quantized model: int8 dtype in weight initialization",
+          "url": "https://github.com/huggingface/transformers/issues/39366",
+          "labels": [
+            "Good First Issue"
+          ],
+          "created_at": "2025-07-11T15:15:09Z"
+        },
+        {
+          "number": 37939,
+          "title": "`ConditionalDetrImageProcessor` still accepts the deprecated parameter `max_size`",
+          "url": "https://github.com/huggingface/transformers/issues/37939",
+          "labels": [
+            "Good First Issue",
+            "Vision"
+          ],
+          "created_at": "2025-05-03T14:15:32Z"
+        }
+      ],
+      "why_recommended": "Great match for your skills! \u2705 Python expertise matches \u2705 Active and well-maintained 3 good first issues available."
+    },
+    {
+      "rank": 3,
+      "match_score": 0.68,
+      "repo": {
+        "name": "yt-dlp/yt-dlp",
+        "url": "https://github.com/yt-dlp/yt-dlp",
+        "description": "A feature-rich command-line audio/video downloader",
+        "stars": 129534,
+        "forks": 10379,
+        "language": "Python",
+        "topics": [
+          "cli",
+          "downloader",
+          "python",
+          "sponsorblock",
+          "youtube-dl",
+          "youtube-downloader",
+          "yt-dlp"
+        ],
+        "open_issues": 2113,
+        "last_updated": "2025-10-04T20:05:59Z",
+        "license": "The Unlicense"
+      },
+      "match_reasons": [
+        "\u2705 Python expertise matches",
+        "\u2705 Active and well-maintained",
+        "\u2705 Good opportunities available"
+      ],
+      "health_metrics": {
+        "maintainer_responsiveness": "excellent",
+        "community_activity": "very_active",
+        "recent_activity": true,
+        "beginner_friendly": true,
+        "overall_health": "excellent",
+        "has_contributing_guide": true,
+        "has_code_of_conduct": true,
+        "has_license": true
+      },
+      "recommended_issues": [
+        {
+          "number": 7392,
+          "title": "Cannot get cookies from Safari.",
+          "url": "https://github.com/yt-dlp/yt-dlp/issues/7392",
+          "labels": [
+            "bug",
+            "good first issue",
+            "external issue",
+            "core:cookies"
+          ],
+          "created_at": "2023-06-23T02:41:25Z"
+        },
+        {
+          "number": 6271,
+          "title": "Donate link in README.md doesn't work on PyPI (but does work on GitHub)",
+          "url": "https://github.com/yt-dlp/yt-dlp/issues/6271",
+          "labels": [
+            "bug",
+            "docs/meta/cleanup",
+            "good first issue"
+          ],
+          "created_at": "2023-02-17T20:06:56Z"
+        },
+        {
+          "number": 5907,
+          "title": "[Twitter Space] Extract availability",
+          "url": "https://github.com/yt-dlp/yt-dlp/issues/5907",
+          "labels": [
+            "good first issue",
+            "site-enhancement"
+          ],
+          "created_at": "2022-12-31T08:30:46Z"
+        }
+      ],
+      "why_recommended": "Great match for your skills! \u2705 Python expertise matches \u2705 Active and well-maintained 3 good first issues available."
+    },
+    {
+      "rank": 4,
+      "match_score": 0.68,
+      "repo": {
+        "name": "pytorch/pytorch",
+        "url": "https://github.com/pytorch/pytorch",
+        "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+        "stars": 93684,
+        "forks": 25475,
+        "language": "Python",
+        "topics": [
+          "autograd",
+          "deep-learning",
+          "gpu",
+          "machine-learning",
+          "neural-network",
+          "numpy",
+          "python",
+          "tensor"
+        ],
+        "open_issues": 16898,
+        "last_updated": "2025-10-04T18:38:16Z",
+        "license": "Other"
+      },
+      "match_reasons": [
+        "\u2705 Python expertise matches",
+        "\u2705 Active and well-maintained",
+        "\u2705 Good opportunities available"
+      ],
+      "health_metrics": {
+        "maintainer_responsiveness": "excellent",
+        "community_activity": "very_active",
+        "recent_activity": true,
+        "beginner_friendly": true,
+        "overall_health": "excellent",
+        "has_contributing_guide": true,
+        "has_code_of_conduct": true,
+        "has_license": true
+      },
+      "recommended_issues": [
+        {
+          "number": 163759,
+          "title": "[dynamo] [dynamic] `torch.combinations` throws RuntimeError when `(backend=aot_eager, dynamic=True)`",
+          "url": "https://github.com/pytorch/pytorch/issues/163759",
+          "labels": [
+            "good first issue",
+            "triaged",
+            "oncall: pt2",
+            "module: dynamic shapes"
+          ],
+          "created_at": "2025-09-24T12:58:38Z"
+        },
+        {
+          "number": 162453,
+          "title": "test/distributed/_tools/test_sac_ilp.py::TestSACILP::test_sac_ilp_case1 is seemingly not run in CI",
+          "url": "https://github.com/pytorch/pytorch/issues/162453",
+          "labels": [
+            "oncall: distributed",
+            "good first issue"
+          ],
+          "created_at": "2025-09-09T02:58:49Z"
+        },
+        {
+          "number": 158968,
+          "title": "foreach_map enhancements",
+          "url": "https://github.com/pytorch/pytorch/issues/158968",
+          "labels": [
+            "feature",
+            "good first issue",
+            "triaged",
+            "oncall: pt2",
+            "module: inductor",
+            "module: dynamo",
+            "internal ramp-up task"
+          ],
+          "created_at": "2025-07-23T20:50:55Z"
+        }
+      ],
+      "why_recommended": "Great match for your skills! \u2705 Python expertise matches \u2705 Active and well-maintained 3 good first issues available."
+    },
+    {
+      "rank": 5,
+      "match_score": 0.68,
+      "repo": {
+        "name": "openinterpreter/open-interpreter",
+        "url": "https://github.com/openinterpreter/open-interpreter",
+        "description": "A natural language interface for computers",
+        "stars": 60580,
+        "forks": 5194,
+        "language": "Python",
+        "topics": [
+          "chatgpt",
+          "gpt-4",
+          "interpreter",
+          "javascript",
+          "nodejs",
+          "python"
+        ],
+        "open_issues": 277,
+        "last_updated": "2025-10-04T15:57:55Z",
+        "license": "GNU Affero General Public License v3.0"
+      },
+      "match_reasons": [
+        "\u2705 Python expertise matches",
+        "\u2705 Active and well-maintained",
+        "\u2705 Good opportunities available"
+      ],
+      "health_metrics": {
+        "maintainer_responsiveness": "good",
+        "community_activity": "very_active",
+        "recent_activity": false,
+        "beginner_friendly": true,
+        "overall_health": "good",
+        "has_contributing_guide": true,
+        "has_code_of_conduct": true,
+        "has_license": true
+      },
+      "recommended_issues": [
+        {
+          "number": 1517,
+          "title": "Invalid Request | empty message error",
+          "url": "https://github.com/openinterpreter/open-interpreter/issues/1517",
+          "labels": [
+            "Bug",
+            "Good First issue"
+          ],
+          "created_at": "2024-10-31T18:04:44Z"
+        },
+        {
+          "number": 1512,
+          "title": "Running \"interpreter --model i raises a LiteLLM:ERROR",
+          "url": "https://github.com/openinterpreter/open-interpreter/issues/1512",
+          "labels": [
+            "Good First issue"
+          ],
+          "created_at": "2024-10-30T19:26:31Z"
+        },
+        {
+          "number": 1404,
+          "title": "The line break character in the name of the conversation file causes the OSError error",
+          "url": "https://github.com/openinterpreter/open-interpreter/issues/1404",
+          "labels": [
+            "Good First issue"
+          ],
+          "created_at": "2024-08-15T15:49:16Z"
+        }
+      ],
+      "why_recommended": "Great match for your skills! \u2705 Python expertise matches \u2705 Active and well-maintained 3 good first issues available."
+    }
+  ],
+  "summary": {
+    "total_repos_analyzed": 50,
+    "top_matches": 5,
+    "recommendation_confidence": 0.6
+  }
+}
