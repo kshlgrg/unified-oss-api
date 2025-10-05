@@ -1,0 +1,20 @@
+{
+  "scan_metadata": {
+    "repository": "torvalds/linux",
+    "scan_timestamp": "2025-10-05T00:28:03.101356",
+    "scan_duration_seconds": 0.77
+  },
+  "repository_stats": {
+    "total_claimed_issues": 0,
+    "healthy": 0,
+    "needs_monitoring": 0,
+    "needs_nudge": 0,
+    "critical": 0
+  },
+  "all_claimed_issues": [],
+  "summary_by_user": {},
+  "recommendations_summary": {
+    "immediate_action_required": 0,
+    "monitor_closely": 0
+  }
+}

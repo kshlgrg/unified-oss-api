@@ -1,0 +1,16 @@
+README.md
+setup.py
+cookie_licking_detector/__init__.py
+cookie_licking_detector.egg-info/PKG-INFO
+cookie_licking_detector.egg-info/SOURCES.txt
+cookie_licking_detector.egg-info/dependency_links.txt
+cookie_licking_detector.egg-info/requires.txt
+cookie_licking_detector.egg-info/top_level.txt
+cookie_licking_detector/app/__init__.py
+cookie_licking_detector/app/ai_analyzer.py
+cookie_licking_detector/app/claim_detector.py
+cookie_licking_detector/app/config.py
+cookie_licking_detector/app/github_client.py
+cookie_licking_detector/app/message_generator.py
+cookie_licking_detector/app/staleness_analyzer.py
+cookie_licking_detector/app/user_profiler.py
